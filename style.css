@@ -32,3 +32,7 @@ img {
 iframe {
   width: 50em;
 }
+
+p#stars {
+    text-align: center;
+}
