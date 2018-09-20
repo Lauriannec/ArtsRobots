@@ -38,5 +38,5 @@ p#stars {
 }
 
 p#originalpub {
-    text-align: left;
+    float: left;
 }
